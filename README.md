@@ -6,22 +6,20 @@ npx prisma generate
 tsc
 node dist/main.js
     
-## Built With
-- Typescript
-- Prisma
-- Express Js
-
-## What did i learn?
-- Typescript, OOP, Generic,  
-- Prisma as ORM
-  - Model
-  - Schema
-  - Relation
-- Babel-jest for testing
-- **Winston** for logging
-- **Supertest** for HTTP testing
-- Manual testing (.http)
-- **Zod** for validation
+What Did I Learn?
+Typescript
+Advanced features such as OOP and Generics.
+Prisma as ORM
+Modeling: How to define models.
+Schema: Understanding Prisma schema.
+Relations: Handling relationships between models.
+Testing
+Babel-jest: For unit testing.
+Supertest: For HTTP endpoint testing.
+Manual Testing: Using .http files.
+Logging
+Winston: For logging important information and debugging.
+Validation
+Zod: For schema validation
 
 ```
-
